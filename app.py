@@ -1,4 +1,5 @@
 import streamlit as st
+st.image("logo.jpg")
 from decimal import Decimal, ROUND_HALF_UP
 
 # =========================
