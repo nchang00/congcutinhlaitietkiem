@@ -10,7 +10,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("💰 Tính lãi gửi tiết kiệm ngân hàng_NGUYEN TRAN QUYNH TRANG")
+st.title("💰 Công cụ tính tiền gửi tiết kiệm ngân hàng_NGUYEN TRAN QUYNH TRANG")
 st.write("Nhập thông tin khoản tiền gửi để tính tiền lãi và tổng số tiền nhận được.")
 
 # =========================
